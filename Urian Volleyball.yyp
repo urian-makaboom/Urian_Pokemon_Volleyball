@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "2c715fce-c9ac-4d0f-aec8-0706949e38cb",
+            "Value": {
+                "id": "b74023d2-cbbb-45b7-a275-33645f1b0c04",
+                "resourcePath": "objects\\OScore\\OScore.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "312002bb-aaef-4873-afae-4d643bc69acf",
             "Value": {
                 "id": "1e0863a3-40d1-452a-a86d-4341932930ec",
@@ -156,6 +164,14 @@
                 "id": "b8b007b8-5a0f-4a44-bc62-ab8925bfa876",
                 "resourcePath": "objects\\OPlayer1\\OPlayer1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "66559dfe-5269-4655-af88-8b09e699702a",
+            "Value": {
+                "id": "a4ad81f7-6271-4dd3-9c54-22a1bdc3ecee",
+                "resourcePath": "sprites\\Background\\Background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

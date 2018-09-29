@@ -17,8 +17,8 @@ hspeed = 7;
 /// @DnDHash : 16C3BDA9
 /// @DnDArgument : "var" "x"
 /// @DnDArgument : "op" "4"
-/// @DnDArgument : "value" "room width - 32"
-if(x >= room width - 32)
+/// @DnDArgument : "value" "room_width - 32"
+if(x >= room_width - 32)
 {
 	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDVersion : 1

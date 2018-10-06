@@ -8,4 +8,5 @@ friction = 0.3;
 /// @DnDVersion : 1
 /// @DnDHash : 73EC6D6C
 /// @DnDArgument : "steps" "3"
-alarm_set(0, 3);
+/// @DnDArgument : "alarm" "1"
+alarm_set(1, 3);

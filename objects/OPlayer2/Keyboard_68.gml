@@ -31,9 +31,8 @@ if(x >= room_width - 32)
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
 /// @DnDHash : 4BFD4487
-/// @DnDArgument : "key" "vk_enter"
 var l4BFD4487_0;
-l4BFD4487_0 = keyboard_check(vk_enter);
+l4BFD4487_0 = keyboard_check(vk_space);
 if (l4BFD4487_0)
 {
 	/// @DnDAction : YoYo Games.Common.If_Variable

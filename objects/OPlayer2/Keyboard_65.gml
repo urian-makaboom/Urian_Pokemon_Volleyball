@@ -30,9 +30,8 @@ if(x <= 0+32)
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
 /// @DnDHash : 6E82227F
-/// @DnDArgument : "key" "vk_enter"
 var l6E82227F_0;
-l6E82227F_0 = keyboard_check(vk_enter);
+l6E82227F_0 = keyboard_check(vk_space);
 if (l6E82227F_0)
 {
 	/// @DnDAction : YoYo Games.Common.If_Variable

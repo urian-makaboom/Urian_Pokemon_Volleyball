@@ -2,7 +2,8 @@
 /// @DnDVersion : 1
 /// @DnDHash : 5210FBBC
 /// @DnDArgument : "angle" "10"
-image_angle = 10;
+/// @DnDArgument : "angle_relative" "1"
+image_angle += 10;
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
@@ -16,7 +17,9 @@ if(x <= 0+32)
 	/// @DnDVersion : 1
 	/// @DnDHash : 45884CB7
 	/// @DnDParent : 78F0DE93
-	speed = 0;
+	/// @DnDArgument : "speed" "speed*0.5"
+	/// @DnDArgument : "type" "1"
+	hspeed = speed*0.5;
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable
